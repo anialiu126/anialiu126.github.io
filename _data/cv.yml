@@ -2,79 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Anna Liu
+      value: Albert Einstein
     - name: Date of Birth
-      value: 6 December 1996
+      value: 14th March 1879
     - name: Languages
-      value: Polish (native), Mandarin Chinese (native), English (fluent), 
-      German (conversational), Russian (conversational)
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Physics 
-      institution: The Chinese University of Hong Kong, Hong Kong
-      year: 2021-present
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Gravitational-wave physics 
-        - Supervised by Prof. Otto A. Hannuksela and Prof. Tjonnie G. F. Li 
-
-    - title: MSc Astronomy & Astrophysics
-      institution: KU Leuven, Belgium
-      year: 2019-2021
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Thesis title "A phenomenological study of gravitational-wave signatures in higher-derivative gravity" 
-        - Supervised by Prof. Thomas Hertog 
-
-    - title: BA (Hons) Physics 
-      institution: University of Oxford, UK
-      year: 2015-2018 
-      
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title:
-      institution: 
-      year: 
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-    
-        
-- title: Research projects
-  type: time_table
-  contents:
-    - title: Gravitational wave millilensing 
-      year: 2023
-      description: 
-    - title: Millilensed or precessing? 
-      year: 2024
-      description: Studying the ability to distinguish 
-      millilensed GWs from GW signals emitted by precessing sources 
-      using matched SNR computation and Bayesian inference, in the context of LIGO-Virgo-KAGRA detections
-    - title: Systematic biases away from GR due to GW millilensing 
-      year: 2024 
-      description: 
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
-- title: Awards
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
   type: time_table
   contents:
-    - year: 2021
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
       items:
-        - Teaching Award Physics Department CUHK
-    - year: 2017 
-      items: 
-        - Oxford Physics Department Speaking Competition
-    - year: 2017 
-      items: 
-        - Victor and William Fung Foundation Scholarship
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: 
+    - title: Topic 1.
       items:
-        - 
- 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list

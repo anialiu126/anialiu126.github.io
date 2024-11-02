@@ -1,81 +1,53 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Exploring the hidden Universe with GW millilensing
+description: Phenomenological modelling of gravitational-wave millilensing
+img: assets/img/waveform_shape.png
 importance: 1
-category: work
+category: GW phenomenology
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### A novel phenomenological approach to model gravitational-wave millilensing using transdimensional sampling  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+When gravitational waves (GWs) pass near massive objects, they become gravitationally lensed. 
+Consequently, they travel on a different path, and the GW amplitude becomes magnified, phase shifted and arrival time - delayed. 
+Moreover, multiple signals from the same source can arrive at the detectors. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+If the time delay between individual lensed GWs is short enough ($\mathcal{O}(10^{-3}-10^{-2})$ ms), they will overlap, leading to a single superposed GW arriving at the detector. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+There have been a number of efforts to date to study GW lensing. 
+Even though lensing of GWs is predicted theoretically, there have been no confirmed detections up to date. 
+Most of the widely used lensing studies assume a specific lens mass distribution (such as point mass or spherically distributed lens mass) and an isolated lens. 
+However, this is physically not realistic, as we know that astrophysical objects reside in galaxies, and hence can gravitationally affect each other, potentially breaking any symmetries. 
+
+
+<div class="row">   <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assests/img/strong_milli.png" title="strong milli setup" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    An example configuration of millilenses within a galaxy producing multiple millilensed GW signals (figure not to scale)
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+ 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+To solve this problem, together with collaborators, we developed a new, lens-model independent method to model GW lensing {% cite liu2023exploring %}.  
+By parameterizing lensed gravitational-wave signals with lensing observables, we capture the imprints these observables leave on the signals. 
+This method allows us to model arbitrary lensing configurations, as long as there is a single lens along the line of sight, without imposing model-specific restrictions. 
+This results in a more physically realistic description of the lensing systems. 
+The project involves transdimensional sampling, which we have implemented using the Bayesian inference library Bilby.
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/waveform_shape.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

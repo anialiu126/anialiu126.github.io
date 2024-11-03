@@ -2,7 +2,7 @@
 layout: page
 title: Can we distinguish millilensed GWs from precessing GW signals?
 description: 
-img: assets/img/3.jpg
+img: assets/img/precessing_millilensed_waveform.png
 importance: 2
 category: GW phenomenology
 giscus_comments: true
@@ -16,13 +16,7 @@ In this project, we to explore our ability to distinguish between these two type
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/precessing_millilensed_waveform.png" title="Comparison of millilensed and precessing GWs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

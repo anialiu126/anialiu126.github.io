@@ -1,12 +1,17 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /education/
+title: Education
+description: My education journey
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Growing up in Polish and Chinese environments, I am a native speaker of both languages. 
+I attended primary school in China and in Poland on a two-month rotation and successfully completed both programmes. 
 
-Organize your courses by years, topics, or universities, however you like!
+I pursued my undergraduate studies at the University of Oxford, followed by a master's programme at KU Leuven in Belgium.
+Currently, I am completing my PhD at the Chinese University of Hong Kong. 
+
+My multicultural experiences have taught me to adapt communication tools to various contexts. 
+I deeply understand the importance of communication, especially in international teams, recognizing that even the best science can be lost without a clear and compelling presentation. 

@@ -7,11 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-Growing up in Polish and Chinese environments, I am a native speaker of both languages. 
-I attended primary school in China and in Poland on a two-month rotation and successfully completed both programmes. 
+Growing up in both Polish and Chinese cultures, I am a native speaker of both languages. 
+I attended primary school in China and Poland on a two-month rotation, successfully completing both programs.
 
-I pursued my undergraduate studies at the University of Oxford, followed by a master's programme at KU Leuven in Belgium.
-Currently, I am completing my PhD at the Chinese University of Hong Kong. 
+For my undergraduate studies, I attended the University of Oxford, followed by a master’s program at KU Leuven in Belgium. Currently, I am completing my PhD at the Chinese University of Hong Kong.
 
-My multicultural experiences have taught me to adapt communication tools to various contexts. 
-I deeply understand the importance of communication, especially in international teams, recognizing that even the best science can be lost without a clear and compelling presentation. 
+My multicultural background has taught me to adapt my communication approach to diverse contexts. 
+During a gap year after my BA, I worked as a freelance translator and interpreter (Polish-Chinese-English), translating cultural texts and film scripts and interpreting for Polish representatives at Polish-Chinese diplomatic and business meetings. 
+This experience deepened my understanding of the importance of clear communication in international teams, where even the best science can be diminished without a compelling presentation.
+This background has strengthened my ability to bridge disciplines and cultures, an asset I bring to collaborative research.

@@ -58,28 +58,27 @@
 - title: Seminar Talks and Conferences
   type: time_table
   contents:
-  - title: Contributed Talks
-    - year: 2024 Sep
-      items: On behalf of the pyRing analysts team, LVK Meeting (online)
-    - year: 2024 May
-      items: Contributed Talk, GWPAW Conference, Birmingham, UK
-    - year: 2024 Apr
-      items: Contributed Talk, APS April Meeting, Sacramento, California, USA
-    - year: 2023 Sep
-      items: Flash Talk and Poster Presentation, LVK Meeting, Toyama, Japan
-    - year: 2023 Jul
-      items: Poster Presentation, ESA Meeting, Kraków, Poland
-    - year: 2023 Apr
-      items: Contributed Talk, APS April Meeting, Minneapolis, Minnesota, USA
+  - title: Contributed Talks and Presentations
+    year: 2024
+    items: 
+     - On behalf of the pyRing analysts team, LVK Meeting, September (online)
+     - GWPAW Conference, Birmingham, UK, May 
+     - APS April Meeting, Sacramento, California, USA, April
+     - Flash Talk and Poster Presentation, LVK Meeting, Toyama, Japan
+    #  - Poster Presentation, ESA Meeting, Kraków, Poland
+    # - year: 2023 Apr
+    #   items: Contributed Talk, APS April Meeting, Minneapolis, Minnesota, USA
   - title: Invited Talks
-    - year: 2023 May
-      items: Invited Talk, KIAA, Peking University, China 
-    - year: 2023 Apr
-      items: Invited Talk, University of Illinois at Urbana-Champaign, USA
-    - year: 2022 May
-      items: Invited Talk, Department Seminar, University of Glasgow, Scotland
-    - year: 2021 Dec
-      items: Invited Talk, Department Seminar, KU Leuven, Belgium 
+    year: 2023
+    items: 
+    - KIAA, Peking University, China 
+    - University of Illinois at Urbana-Champaign, USA
+  - title: Invited Talks
+    year: 2022 May
+    items: Department Seminar, University of Glasgow, Scotland
+  - title: Invited Talk
+    year: 2021 Dec
+    items: Invited Talk, Department Seminar, KU Leuven, Belgium 
 
 - title: Teaching and Mentoring
   type: time_table

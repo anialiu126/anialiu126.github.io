@@ -29,45 +29,44 @@
       institution: University of Oxford, UK
       year: 2015-2018 
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: 
-      institution:
-      year:
-      description:
-
-
 - title: Research projects
   type: time_table
   contents:
     - title: Gravitational-wave millilensing 
       year: 2023
-      description:
+      description: Developed a lens-model independent framework for analysing lensed GW signals, and implemented into the LIGO Lensing Subgroup search pipeline 
     - title: Millilensed or precessing? 
       year: 2024
-      description: Studying the ability to distinguish millilensed GWs from GW signals emitted by precessing sources using matched SNR computation and Bayesian inference, in the context of LIGO-Virgo-KAGRA detections
+      description: The first comprehensive study of distinguishing millilensed GWs from precessing signals in the context of LIGO-Virgo-KAGRA detections
     - title: Systematic biases away from GR due to GW millilensing 
       year: 2024 
-      description:
-
+      description: Identified and quantified biases in tests of GR within the parameterised post-Einsteinian framework, employing Bayesian analysis and semi-analytic tools 
+      
 - title: Awards
   type: time_table
   contents:
     - year: 2021
       items:
-        - Teaching Award Physics Department CUHK
+        - CUHK Physics Department Teaching Award
     - year: 2017
       items:
         - Oxford Physics Department Speaking Competition
         - Victor and William Fung Foundation Scholarship
 
-- title: Academic Interests
-  type: nested_list
+- title: Seminar Talks and Conferences
+  type: time_table
   contents:
-    - title:
-      items:
+    - year: 2024 Sep
+      items: Contributed Talk on befalf off the pyRing analysts team, LVK Meeting
+    - year: 2024 May
+      items: Contributed Talk, GWPAW Conference, Birmingham, UK
 
+- title: Teaching and Mentoring
+  type: time_table
+  contents:
+    - year: 2023-2024
+      items: Lecture organiser and teaching assistant “Quantum Field Theory. An informal course”. Initiator and organiser of the first graduate-level quantum-field theory course at CUHK, lectured by Prof. Kenneth Young, 50 attendees 
+      
 - title: Other Interests
   type: list
   contents:

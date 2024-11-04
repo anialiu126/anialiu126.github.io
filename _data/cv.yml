@@ -81,20 +81,27 @@
   type: time_table
   contents:
     - year: 2023-2024
-      items: Lecture organiser and teaching assistant “Quantum Field Theory. An informal course”. Initiator and organiser of the first graduate-level quantum-field theory course at CUHK, lectured by Prof. Kenneth Young, 50 attendees. 
+      items: 
+       - Lecture organiser and teaching assistant “Quantum Field Theory. An informal course”. 
+       - Initiator and organiser of the first graduate-level quantum-field theory course at CUHK, lectured by Prof. Kenneth Young, 50 attendees. 
     - year: 2021-2023
-      items: Daily supervisor of three undergraduate students on gravitational-wave related research projects: Chad Cheuk Nam Chong (2021), Ben Yu On Xu (2023), Thomas Chi Kit Ng (2023).
+      items: 
+       - Daily supervisor of three undergraduate students on gravitational-wave related research projects
+       - Chad Cheuk Nam Chong (2021), Ben Yu On Xu (2023), Thomas Chi Kit Ng (2023).
     - year: 2021-2024
-      items: Teaching Assistant for undergraduate course “PHYS1110 Engineering Physics: Mechanics and Thermodynamics”. Weekly exercise classes of 30-35 students, individual consultations and assignment marking.
+      items: 
+       - Teaching Assistant for undergraduate course “PHYS1110 Engineering Physics. Mechanics and Thermodynamics”. 
+       - Weekly exercise classes of 30-35 students, individual consultations and assignment marking.
 
 - title: Service and Outreach
   type: time_table
   contents:
-    - year: 2022-2023
-      items: Initiator and Co-lead, Astro Joint Journal Club
+    - title: Initiator and Co-lead, Astro Joint Journal Club
+      year: 2022-2023
       description: Regular journal clubs within three research groups encouraging collaborative science discussions across a wide range of topics in astrophysics and cosmology
-    - year: 2022
-      items: Workshop Organiser, Physics Department “Presentation Skills for Scientists”. Online workshop for graduate students, invited guest speaker Dr. Dominic Bowman.
+    - title: Workshop Organiser, CUHK Physics Department “Presentation Skills for Scientists” Workshop
+      year: 2022
+      description: Online workshop for graduate students, invited guest speaker Dr. Dominic Bowman.
       
 - title: Coding Skills
   type: list

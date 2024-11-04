@@ -55,7 +55,6 @@
 
 - title: Seminar Talks and Conferences
   type: time_table
-  description: Invited (4), Contributed (4) 
   contents:
     - year: 2024 Sep
       items: Contributed Talk on befalf of the pyRing analysts team, LVK Meeting (online)

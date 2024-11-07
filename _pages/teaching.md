@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /education/
-title: Education
-description: My education journey
+permalink: /crosscultures/
+title: CrossCultures
+description: My multicultural background and journey across cultures
 nav: true
 nav_order: 4
 ---

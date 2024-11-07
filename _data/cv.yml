@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Anna Liu
-    - name: Date of Birth
-      value: 6th December 1996
+    # - name: Date of Birth
+    #   value: 6th December 1996
     - name: Languages
       value: Polish (native), Chinese (native), English (fluent), German (conversational), Russian (conversational) 
 

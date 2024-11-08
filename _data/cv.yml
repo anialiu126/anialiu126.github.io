@@ -29,18 +29,18 @@
       institution: University of Oxford, UK
       year: 2015-2018 
 
-- title: Research projects
-  type: time_table
-  contents:
-    - title: Unravelling Dark Matter with Gravitational-Waves: Gravitational-wave millilensing 
-      year: 2023
-      description: Developed a lens-model independent framework for analysing lensed GW signals, and implemented into the LIGO Lensing Subgroup search pipeline 
-    - title: Millilensed or precessing? 
-      year: 2024
-      description: The first comprehensive study of distinguishing millilensed GWs from precessing signals in the context of LIGO-Virgo-KAGRA detections
-    - title: Millilensing-induced systematic biases in parameterised tests of General Relativity
-      year: 2024 
-      description: Identified and quantified biases in tests of GR within the parameterised post-Einsteinian framework, employing Bayesian analysis and semi-analytic tools 
+# - title: Research projects
+#   type: time_table
+#   contents:
+#     - title: Unravelling Dark Matter with Gravitational-Waves: Gravitational-wave millilensing 
+#       year: 2023
+#       description: Developed a lens-model independent framework for analysing lensed GW signals, and implemented into the LIGO Lensing Subgroup search pipeline 
+#     - title: Millilensed or precessing? 
+#       year: 2024
+#       description: The first comprehensive study of distinguishing millilensed GWs from precessing signals in the context of LIGO-Virgo-KAGRA detections
+#     - title: Millilensing-induced systematic biases in parameterised tests of General Relativity
+#       year: 2024 
+#       description: Identified and quantified biases in tests of GR within the parameterised post-Einsteinian framework, employing Bayesian analysis and semi-analytic tools 
       
 - title: Awards
   type: time_table

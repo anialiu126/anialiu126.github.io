@@ -6,6 +6,7 @@ img: assets/img/milli_ppE_system_configs.png
 redirect: 
 importance: 3
 category: GW phenomenology
+related_publications: true
 ---
 
 In addition to precession investigated in Project 2, other factors can complicate GW signal interpretation, including deviations from GR.
@@ -21,9 +22,12 @@ We developed a semi-analytical model for millilensed GWs to numerically fit lens
 By systematically exploring biases in ppE tests of GR, we quantified systematic and statistical errors, SNR loss, and Bayes factors between non-lensed ppE and GR analyses using linear signal and Laplace approximations.
 This revealed clear trends in biases, with the semi-analytical framework indicating that biases are positive (negative) for negative (positive) PN orders and predicting which signals are most susceptible to these biases.
 
-<div class="row">   <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center"> 
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assests/img/milli_ppE_system_configs.png" title="systems setup" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+            
 </div>
 <div class="caption">
     System configurations studied and corresponding waveforms in time domain.

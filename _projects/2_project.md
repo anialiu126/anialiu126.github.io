@@ -6,6 +6,7 @@ img: assets/img/precessing_millilensed_waveform.png
 importance: 2
 category: GW phenomenology
 giscus_comments: false
+related_publications: true
 ---
 
 One of the key characteristics of millilensed gravitational wave (GW) waveform shapes is the frequency-dependent beating pattern formed by the overlapping of individual millilensed signals. 

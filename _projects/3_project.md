@@ -23,13 +23,10 @@ By systematically exploring biases in ppE tests of GR, we quantified systematic 
 This revealed clear trends in biases, with the semi-analytical framework indicating that biases are positive (negative) for negative (positive) PN orders and predicting which signals are most susceptible to these biases.
 
 <div class="row justify-content-sm-center"> 
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/milli_ppE_system_configs.png" title="systems setup" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/milli_ppE_system_configs.png" title="systems setup" class="img-fluid rounded z-depth-1" style="width:90%;" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-            
 </div>
-<div class="caption">
+<div class="caption text-center">
     System configurations studied and corresponding waveforms in time domain.
 </div>
- 

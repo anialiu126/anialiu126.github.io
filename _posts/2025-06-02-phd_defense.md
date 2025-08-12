@@ -11,7 +11,15 @@ thumbnail: assets/img/phd_crown_low_quality.png
 On June 2, 2025, I officially defended my PhD at the Chinese University of Hong Kong 🎓🥳
 
 <div class="row mt-3">
-    {% include figure.liquid loading="eager" path="assets/img/defense_main.jpg" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/defense_main.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/defense_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/defense_last.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 It’s been a long, challenging, but also incredibly rewarding journey.

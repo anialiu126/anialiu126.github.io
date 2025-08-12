@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: PhD Student in Gravitational-Wave Physics 
+subtitle: Gravitational-Wave Astrophysicist and an incoming postdoc at University of Illinois, Urbana-Champaign
 
 profile:
   align: right
@@ -16,16 +16,18 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome to my webpage! I'm Anna Liu (刘安娜), but you can call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese, and I am currently pursuing a PhD in Gravitational-Wave Physics at the Chinese University of Hong Kong (CUHK). I am a member of the [Gravitational-Wave Group at CUHK](https://gw.phy.cuhk.edu.hk/), and a member of the LIGO Scientific Collaboration. 
+Welcome to my webpage! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese. I am an incoming postdoctoral researcher at the University of Illinois, Urbana-Champaign (UIUC) from fall 2025. 
+
+I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University of Hong Kong (CUHK) in June 2025, specialising in gravitational-wave data analysis of compact binary signals. I developed a phenomenological GW lensing model and have contributed to ringdown analyses of GWs. I am a member of the LIGO-Virgo-KAGRA Collaboration, contributing to the Testing General Relativity and Lensing Groups. 
 
 #### <i class="fa-solid fa-building-columns" style="color: #74C0FC;"></i> Education: 
-- PhD Physics, The Chinese University of Hong Kong, 2021-present
+- PhD Physics, The Chinese University of Hong Kong, 2021-2025
 - MSc Astronomy & Astrophysics, KU Leuven, Belgium, 2021
 - BA (Hons) Physics, University of Oxford, UK, 2018
 
 #### <i class="fa-solid fa-magnifying-glass-chart" style="color: #fbae56;"></i> Research Interest: 
 - Gravitational waves from binary black holes: data analysis and phenomenology
-- Gravitational-wave lensing
+- Probing matter distribution in the Universe with gravitational-wave lensing
 - Probing General Relativity with black-hole ringdown
 
 #### <i class="fa-solid fa-earth-americas" style="color: #badb9e;"></i> Languages: 

@@ -5,12 +5,14 @@ date: 2025-06-02
 description: I defended my PhD at the Chinese University of Hong Kong.
 tags: phd
 featured: true
-thumbnail: ./assets/img/phd_crown_low_quality.png
+thumbnail: assets/img/phd_crown_low_quality.png
 ---
 
 On June 2, 2025, I officially defended my PhD at the Chinese University of Hong Kong 🎓🥳
 
-[photo]
+<div class="row mt-3">
+    {% include figure.liquid loading="eager" path="assets/img/defense_main.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
 
 It’s been a long, challenging, but also incredibly rewarding journey.
 I couldn’t have made it to the final chapter without the kindness, encouragement, and support of so many amazing people ✨

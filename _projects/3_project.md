@@ -24,7 +24,7 @@ This revealed clear trends in biases, with the semi-analytical framework indicat
 
 <div class="row justify-content-sm-center"> 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assests/img/milli_ppE_system_configs.png" title="systems setup" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/milli_ppE_system_configs.png" title="systems setup" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
             

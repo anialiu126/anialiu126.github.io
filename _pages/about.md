@@ -25,6 +25,11 @@ I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University o
 - MSc Astronomy & Astrophysics, KU Leuven, Belgium, 2021
 - BA (Hons) Physics, University of Oxford, UK, 2018
 
+My mini world map
+<div class="col-sm-4 mt-3">
+  {% include figure.liquid loading="eager" path="assests/img/world_map.png" title="world map" class="img-fluid rounded z-depth-1" %}
+</div>
+
 #### <i class="fa-solid fa-magnifying-glass-chart" style="color: #fbae56;"></i> Research Interest: 
 - Gravitational waves from binary black holes: data analysis and phenomenology
 - Probing matter distribution in the Universe with gravitational-wave lensing

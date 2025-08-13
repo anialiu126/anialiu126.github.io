@@ -15,7 +15,7 @@ The overlapping of individual millilensed signals would produce <b>frequency-dep
 
 <div class="row">
     <div class="col-md mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/precessing_waveform.png" title="Spin-induced precession of binary orbital plane" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pecessing_waveform.png" title="Spin-induced precession of binary orbital plane" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -38,6 +38,6 @@ In this project, <b>we explored how well we can tell apart two look-alike signal
 <b>What we found:</b> In most cases, we could recover lensing parameters even when the analysis model ignored precession.  
 But when lensing was neglected, things got messy-—missing lensing effects could mimic extremal spins (up to ~0.9), far above the ~0.7 spins predicted for astrophysical black holes.
 
-<b>Takeaway: If we see a gravitational wave that looks highly precessing, we can’t jump straight to “extreme spins.” It might be a sign that lensing physics is hiding in plain sight—and ignoring it could completely distort our astrophysical conclusions.</b>
+<b>Takeaway: If we see a gravitational wave that looks highly precessing, we can’t jump straight to “extreme spins”. It might be a sign that lensing physics is hiding in plain sight—and ignoring it could completely distort our astrophysical conclusions.</b>
 If you want to find out more, check out our paper {% cite liu2024discernmillilensedgravitationalwavesignals %}!
 

@@ -15,7 +15,7 @@ The overlapping of individual millilensed signals would produce <b>frequency-dep
 
 <div class="row">
     <div class="col-md mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/precessing_BBH.pdf" title="Comparison of millilensed and precessing GWs" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/precessing_waveform.png" title="Spin-induced precession of binary orbital plane" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

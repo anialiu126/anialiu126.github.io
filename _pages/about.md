@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: Gravitational-Wave Astrophysicist and an incoming postdoc at University of Illinois, Urbana-Champaign
+subtitle: Gravitational-Wave Astrophysicist and a postdoc at University of Illinois Urbana-Champaign
 
 profile:
   align: right
@@ -16,7 +16,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome to my webpage! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese. I am an incoming postdoctoral researcher at the University of Illinois, Urbana-Champaign (UIUC) from fall 2025. 
+Welcome to my webpage! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese. I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC). 
 
 I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University of Hong Kong (CUHK) in June 2025, specialising in gravitational-wave data analysis of compact binary signals. I developed a phenomenological GW lensing model and have contributed to ringdown analyses of GWs. I am a member of the LIGO-Virgo-KAGRA Collaboration, contributing to the Testing General Relativity and Lensing Groups. 
 

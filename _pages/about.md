@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Physics, Rm 315</p>
-    <p>The Chinese University of Hong Kong</p>
+    <p></p>
+    <p></p>
   
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

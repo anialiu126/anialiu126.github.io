@@ -7,16 +7,23 @@ nav: true
 nav_order: 4
 ---
 
-Growing up in both Polish and Chinese cultures, I am a native speaker of both languages. 
-I attended primary school in China and Poland on a two-month rotation, successfully completing both programs.
+## A Life Between Worlds
 
-For my undergraduate studies, I attended the University of Oxford, followed by a master’s program at KU Leuven in Belgium. Currently, I am completing my PhD at the Chinese University of Hong Kong.
+Growing up in both Polish and Chinese cultures, I am a native speaker of both languages. 
+I attended primary school in both China and Poland on a two-month rotation, successfully completing both programs. This unconventional path taught me early that cultural and educational frameworks are not universal, but learnable.
+
+My academic journey has continued across borders. After studying at the University of Oxford, I pursued a master's degree at KU Leuven in Belgium and completed my PhD at the Chinese University of Hong Kong. I now work as a postdoctoral researcher at the University of Illinois Urbana-Champaign in the US. Each institution has deepened my understanding of how research culture, communication norms, and scientific thinking vary globally.
+
+## Bridging Language and Understanding 
 
 My multicultural background has taught me to adapt my communication approach to diverse contexts. 
-During a gap year after my BA, I worked as a freelance translator and interpreter (Polish-Chinese-English), translating cultural texts and film scripts and interpreting for Polish representatives at Polish-Chinese diplomatic and business meetings. 
+After my BA, I spent a gap year working as a freelance translator and interpreter across Polish, Mandarin Chinese, and English. This wasn't just language work--I translated cultural texts and film scripts, and served as an interpreter for Polish representatives at diplomatic and business meetings between Poland and China. 
 This experience deepened my understanding of the importance of clear communication in international teams, where even the best science can be diminished without a compelling presentation.
-This background has strengthened my ability to bridge disciplines and cultures, an asset I bring to collaborative research.
+Working between languages taught me that translation is interpretation. It requires understanding not just words, but context, values, and unstated assumptions. This awareness shapes how I approach collaborative research today—I'm attentive to how disciplinary cultures differ much like national ones do.
 
+## What This Brings to My Work
+
+My multicultural background is not a side note to my research; it's foundational to how I work. I adapt my communication to diverse audiences and contexts. I recognize that the best international teams require more than shared goals—they require people who can genuinely bridge different ways of thinking and working. That's what I aim to contribute.
 
 <div class="row">
     <!-- First Image Column -->

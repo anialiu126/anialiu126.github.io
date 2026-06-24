@@ -6,14 +6,19 @@
     # - name: Date of Birth
     #   value: 6th December 1996
     - name: Languages
-      value: Polish (native), Chinese (native), English (fluent), German (conversational), Russian (conversational) 
+      value: Polish (native), Mandarin Chinese (native), English (fluent), German (intermediate), Russian (conversational), Cantonese (basic)
 
 - title: Work experience
   type: time_table
   contents:
+    - title: Postdoctoral Fellow
+      institution: Perimeter Institute
+      year: Sep 2026
+      description:
+        - I will join Perimeter Institute as a postdoctoral fellow in September 2026!
     - title: Postdoctoral Researcher
       institution: University of Illinois Urbana-Champaign
-      year: 2025-present
+      year: 2025-2026
       description:
         - Bayesian analysis of gravitational waves from binary neutron stars
         - Member of Prof. Nicolas Yunes group and MUSES collaboration
@@ -29,14 +34,14 @@
         - Gravitational-wave physics from binary black holes - parameter estimation and phenomenology
         - Gravitational-wave lensing
         - Probing General Relativity with black hole ringdown
-        - Supervised by Prof. Otto A. Hannuksela and Prof. Tjonnie G. F. Li 
+       # - Supervised by Prof. Otto A. Hannuksela and Prof. Tjonnie G. F. Li 
 
     - title: MSc Astronomy & Astrophysics
       institution: KU Leuven, Belgium
       year: 2019-2021
       description:
         - Thesis title "A phenomenological study of gravitational-wave signatures in higher-derivative gravity"
-        - Supervised by Prof. Thomas Hertog
+       # - Supervised by Prof. Thomas Hertog
 
     - title: BA (Hons) Physics 
       institution: University of Oxford, UK
@@ -74,20 +79,29 @@
 - title: Seminar Talks and Conferences
   type: time_table
   contents:
-  - title: Contributed Talks and Presentations
+  - title: Invited Talks
+    year: 2025-2026
+    items: 
+    - Perimeter Institute (DOI 10.48660/26060068)
+    - LVK GWTC-4 Lensing Webinar (online, streamed on YouTube)
+    - GWnext Meeting 2026, Beijing, China
+    - London-Oldenburg Relativity Seminar (online)
+    - Astrophysics, Relativity and Cosmology Seminar, UIUC, USA
+  - title: Invited Talks
     year: 2023-2024
     items: 
+    - KIAA, Peking University, China 
+    - University of Illinois at Urbana-Champaign, USA
+  - title: Contributed Talks and Presentations
+    year: 2023-2025
+    items: 
+     - Midwest Relativity Meeting, Guelph, Canada 
      - On behalf of the pyRing analysts team, March LVK Meeting 2024 (online)
      - GWPAW Conference 2024, Birmingham, UK
      - APS April Meeting 2024, Sacramento, California, USA
      - Flash Talk and Poster Presentation, September LVK Meeting 2023, Toyama, Japan
      - APS April Meeting 2023, Minneapolis, Minnesota, USA
      - Poster Presentation, ESA Meeting 2023, Kraków, Poland
-  - title: Invited Talks
-    year: 2023
-    items: 
-    - KIAA, Peking University, China 
-    - University of Illinois at Urbana-Champaign, USA
   - title: Invited Talks
     year: 2021-2022
     items: 
@@ -97,7 +111,7 @@
 - title: Teaching and Mentoring
   type: time_table
   contents:
-    - title: Lecture Organiser and Teaching Assistant
+    - title: Lecture Initiator, Organiser and Teaching Assistant
       year: 2023-2024
       items: 
        - “Quantum Field Theory. An informal course”. 
@@ -116,16 +130,26 @@
 - title: Service and Outreach
   type: time_table
   contents:
-    - title: Initiator and Co-lead, Astro Joint Journal Club
-      year: 2022-2023
-      description: Regular journal clubs within three research groups encouraging collaborative science discussions across a wide range of topics in astrophysics and cosmology
+    - title: BRIDGE (Building Relations in Diversity and Gender Equity) organizing committee member 
+      year: 2025-2026
+      description: Inviting speakers and hosting discussions on diversity and gender equity in academia
+    - title: Initiator and Co-lead, Weekly Astro Journal Club
+      year: 2021-2023
+      description: Initiated and co-led a cross-group journal club (20-30 regular participants) that has continued for five years; Organised speakers and guided discussions promoting collaboration between astrophysics and cosmology researchers.
+    - title: Local Organizing Committee Member of an international workshop _Multimessenger Astronomy: Bridging Transients, Lensing, and Dark Matter (Cosmic Frontiers)_
+      year: Nov 2023
     - title: Workshop Organiser, CUHK Physics Department “Presentation Skills for Scientists” Workshop
       year: 2022
       description: Online workshop for graduate students, invited guest speaker Dr. Dominic Bowman.
+    - title: Referee, Monthly Notices of the Royal Astronomical Society; Physical Review D
+      year: since 2021 
+    - title: Science Communication Translator
+      year: since 2021
+      description: Translated LVK science summaries and outreach materials into Polish and Chinese.
       
 - title: Coding Skills
   type: list
   contents:
     - <u>Coding languages:</u> Python, Mathematica, MATLAB, R Studio.
-    - <u>Astrophysics-related software:</u> Bilby, pyRing (ringdown analysis package) developer, MESA (Stellar Evolution Code), Phoebe (Eclipsing Binary Modelling Software)
-    - <u>Graphics editors:</u> Inkscape, Adobe Photoshop
+    - <u>Astrophysics-related software:</u> pyRing (ringdown analysis package) developer, Gravelamps (lensing analyses) developer, Bilby (gravitational-wave parameter estimation), MESA (Stellar Evolution Code), Phoebe (Eclipsing Binary Modelling Software)
+    - <u>Graphics and video editors:</u> proficient user of Inkscape, Adobe Photoshop, DaVinci Resolve

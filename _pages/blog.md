@@ -8,8 +8,8 @@ hero_image_light: talks-light.jpg
 hero_image_dark: talks-dark.jpg
 hero_subtitle: Seminars, conference talks &amp; invited lectures
 hero_pos: center 45%
-hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Mathematics_lecture_at_the_Helsinki_University_of_Technology.jpg' target='_blank' rel='noopener'>Tungsten</a> · public domain"
-hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:A_sky_full(dome)_of_stars_(upr_IMG_6301-CC).jpg' target='_blank' rel='noopener'>ESO/P. Horálek</a> · CC BY 4.0"
+hero_credit_light: "Image: <a href='https://commons.wikimedia.org/wiki/File:Formulas_on_an_old_blackboard_(Unsplash).jpg' target='_blank' rel='noopener'>Roman Mager</a> · CC0"
+hero_credit_dark: "Image: <a href='https://commons.wikimedia.org/wiki/File:Formulas_on_an_old_blackboard_(Unsplash).jpg' target='_blank' rel='noopener'>Roman Mager</a> · CC0"
 pagination:
   enabled: true
   collection: posts

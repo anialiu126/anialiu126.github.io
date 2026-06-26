@@ -8,8 +8,8 @@ nav_order: 4
 hero_image_light: cross-light.jpg
 hero_image_dark: cross-dark.jpg
 hero_pos: center 50%
-hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Oak_avenue,_D%C3%A4nschenburg,_2021-10-10.jpg' target='_blank' rel='noopener'>Radomianin</a> · CC BY-SA 4.0"
-hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_at_Juyong_Pass_at_sunset,_20_April_2011.jpg' target='_blank' rel='noopener'>Huangdan2060</a> · CC0"
+hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Green_tree_alley.jpg' target='_blank' rel='noopener'>Yuvikmi</a> · CC BY-SA 4.0"
+hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Sun_Rise_of_the_Great_Wall.jpg' target='_blank' rel='noopener'>Chrisding30</a> · CC BY-SA 4.0"
 ---
 
 <img src="{{ '/assets/img/ania-crosscultures.jpg' | relative_url }}" alt="Anna Liu in a qipao" class="crosscultures-portrait" />

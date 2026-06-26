@@ -13,7 +13,7 @@
   {% assign hero_title = page.hero_title | default: page.title %}
   {% assign hero_sub = page.hero_subtitle | default: page.subtitle | default: page.description %}
   <section
-    class="quiet-hero{% if page.hero_image_dark %} has-tint{% endif %}"
+    class="quiet-hero{% if page.hero_image_dark %} has-tint{% endif %}{% if page.hero_light_text %} force-light-text{% endif %}"
     style="--hero-light: url('{{ hero_light_url }}'); --hero-dark: url('{{ hero_dark_url }}');{% if page.hero_pos %} --hero-pos: {{ page.hero_pos }};{% endif %}"
   >
     <div class="quiet-hero__blur" aria-hidden="true"></div>

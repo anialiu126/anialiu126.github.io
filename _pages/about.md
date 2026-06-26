@@ -6,7 +6,7 @@ subtitle: Gravitational-Wave Astrophysicist · University of Illinois Urbana-Cha
 
 hero_image_light: home-light.jpg
 hero_image_dark: home-dark.jpg
-hero_title: Anna Liu 刘安娜
+hero_title: Anna Liu (Ania) 刘安娜
 hero_pos: center 30%
 hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Aletsch_Glacier_view.jpg' target='_blank' rel='noopener'>Seba3mmm</a> · CC BY-SA 4.0"
 hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg' target='_blank' rel='noopener'>Giles Laurent</a> · CC BY-SA 4.0"
@@ -23,7 +23,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome to my webpage! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese. I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC). In September 2026, I will be joining the <a href="https://perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> in Waterloo, Canada. 
+Welcome to my webpage! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC). In September 2026, I will be joining the <a href="https://perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> as a postdoctoral fellow. 
 
 I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University of Hong Kong (CUHK) in June 2025, specialising in gravitational-wave data analysis of compact binary signals. I developed a phenomenological GW lensing model and have contributed to ringdown analyses of GWs. I am a member of the LIGO-Virgo-KAGRA Collaboration, contributing to the Testing General Relativity and Lensing Groups. 
 

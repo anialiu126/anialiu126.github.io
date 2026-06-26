@@ -140,13 +140,21 @@ html[data-theme="dark"] .quiet-hero {
   }
 }
 
-/* light theme: lift the title/subtitle off the bright photo with a soft halo */
+/* light theme: no shadow behind the hero text (per request) */
 html[data-theme="light"] .quiet-hero {
-  .quiet-hero__title {
-    text-shadow: 0 1px 16px rgba(255, 255, 255, 0.85);
+  .quiet-hero__title,
+  .quiet-hero__sub,
+  .quiet-hero__credit {
+    text-shadow: none;
   }
+}
+
+/* pages whose light-theme photo is dark (e.g. Publications / Andromeda):
+   keep the title + subtitle light/cream so they stay legible */
+html[data-theme="light"] .quiet-hero.force-light-text {
+  .quiet-hero__title,
   .quiet-hero__sub {
-    text-shadow: 0 1px 12px rgba(255, 255, 255, 0.95);
+    color: #faf7f2;
   }
 }
 
@@ -212,5 +220,47 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
   i {
     margin-right: 0.4rem;
     color: var(--global-theme-color);
+  }
+}
+
+/* ---- About page: smaller social icons --------------------------------- */
+.about-post .social .contact-icons {
+  font-size: 2.4rem;
+}
+
+/* ---- Publications: looser spacing + clearer hierarchy ----------------- */
+.publications ol.bibliography > li {
+  margin-bottom: 1.6rem;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid var(--global-divider-color);
+
+  .title {
+    font-family: $quiet-serif;
+    font-size: 1.12rem;
+    font-weight: 600;
+    line-height: 1.35;
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  .author {
+    font-size: 0.92rem;
+    color: var(--global-text-color-light);
+    margin-bottom: 0.15rem;
+  }
+
+  .periodical {
+    font-size: 0.88rem;
+    color: var(--global-text-color-light);
+    line-height: 1.4;
+  }
+
+  /* the journal + date line in italics; the contribution note stays upright */
+  .periodical:first-of-type {
+    font-style: italic;
+  }
+
+  .links {
+    margin-top: 0.5rem;
   }
 }

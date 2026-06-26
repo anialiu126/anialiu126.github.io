@@ -20,6 +20,9 @@ $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
+$royalblue-color: #6f8ef0 !default; // royalblue, brightened for legibility on dark bg
+$paper-color: #faf7f2 !default; // warm "paper" background for light theme
+$space-color: #0d1117 !default; // deep-space background for dark theme
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;

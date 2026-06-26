@@ -20,6 +20,9 @@
     <!-- Header -->
     {% include header.liquid %}
 
+    <!-- Quiet restyle: full-bleed hero (renders only when page sets hero_image_*) -->
+    {% include hero.liquid %}
+
     <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}

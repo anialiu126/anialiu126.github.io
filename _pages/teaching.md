@@ -5,6 +5,11 @@ title: CrossCultures
 description: My multicultural background and journey across cultures
 nav: true
 nav_order: 4
+hero_image_light: cross-light.jpg
+hero_image_dark: cross-dark.jpg
+hero_pos: center 45%
+hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:A_winding_road_up_Cerro_Armazones_(dji-0661).jpg' target='_blank' rel='noopener'>ESO/G. Vecchia</a> · CC BY 4.0"
+hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Aurora_Borealis_over_Spelga_Reservoir.jpg' target='_blank' rel='noopener'>David Kernan</a> · CC BY-SA 4.0"
 ---
 
 ## A Life Between Worlds

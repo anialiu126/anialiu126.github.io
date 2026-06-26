@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 display_categories: [GW phenomenology, Astrophysics]
 horizontal: true
+hero_image_light: projects-light.jpg
+hero_image_dark: projects-dark.jpg
+hero_pos: center 50%
+hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:LIGO_Hanford_aerial_05.jpg' target='_blank' rel='noopener'>LIGO Laboratory</a> · public domain"
+hero_credit_dark: "Image: <a href='https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg' target='_blank' rel='noopener'>Event Horizon Telescope</a> · CC BY 4.0"
 ---
 
 <!-- pages/projects.md -->

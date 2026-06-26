@@ -1,0 +1,33 @@
+{% comment %} Quiet/editorial hero: a photo that dissolves into a blurred glow into the page background.
+   Driven by page front matter:
+     hero_image_light, hero_image_dark  (filenames in /assets/img/heroes/)
+     hero_title, hero_subtitle          (optional; default to page.title / page.subtitle|description)
+     hero_pos                           (optional CSS background-position, e.g. "center 30%")
+     hero_credit_light, hero_credit_dark (optional attribution lines, raw HTML allowed)
+{% endcomment %}
+{% if page.hero_image_light or page.hero_image_dark %}
+  {% assign hero_light = page.hero_image_light | default: page.hero_image_dark %}
+  {% assign hero_dark = page.hero_image_dark | default: page.hero_image_light %}
+  {% assign hero_light_url = hero_light | prepend: '/assets/img/heroes/' | relative_url %}
+  {% assign hero_dark_url = hero_dark | prepend: '/assets/img/heroes/' | relative_url %}
+  {% assign hero_title = page.hero_title | default: page.title %}
+  {% assign hero_sub = page.hero_subtitle | default: page.subtitle | default: page.description %}
+  <section
+    class="quiet-hero{% if page.hero_image_dark %} has-tint{% endif %}"
+    style="--hero-light: url('{{ hero_light_url }}'); --hero-dark: url('{{ hero_dark_url }}');{% if page.hero_pos %} --hero-pos: {{ page.hero_pos }};{% endif %}"
+  >
+    <div class="quiet-hero__blur" aria-hidden="true"></div>
+    <div class="quiet-hero__img" aria-hidden="true"></div>
+    <div class="quiet-hero__tint" aria-hidden="true"></div>
+    <div class="quiet-hero__text">
+      {% if hero_title %}<h1 class="quiet-hero__title">{{ hero_title }}</h1>{% endif %}
+      {% if hero_sub %}<p class="quiet-hero__sub">{{ hero_sub }}</p>{% endif %}
+    </div>
+    {% if page.hero_credit_light or page.hero_credit_dark %}
+      <span class="quiet-hero__credit">
+        {% if page.hero_credit_light %}<span class="credit-light">{{ page.hero_credit_light }}</span>{% endif %}
+        {% if page.hero_credit_dark %}<span class="credit-dark">{{ page.hero_credit_dark }}</span>{% endif %}
+      </span>
+    {% endif %}
+  </section>
+{% endif %}

@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 display_categories: [GW phenomenology, Astrophysics]
 horizontal: true
+hero_image_light: projects-light.jpg
+hero_image_dark: projects-dark.jpg
+hero_pos: center 50%
+hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:LIGO_Hanford_aerial_05.jpg' target='_blank' rel='noopener'>LIGO Laboratory</a> · public domain"
+hero_credit_dark: "Simulation: <a href='https://commons.wikimedia.org/wiki/File:Computer_simulation_of_colliding_black_holes_(ann16008a).tif' target='_blank' rel='noopener'>SXS (Simulating eXtreme Spacetimes) / ESO</a> · CC BY 4.0"
 ---
 
 <!-- pages/projects.md -->

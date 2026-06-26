@@ -4,6 +4,13 @@ title: About me
 permalink: /
 subtitle: Gravitational-Wave Astrophysicist and a postdoc at University of Illinois Urbana-Champaign
 
+hero_image_light: home-light.jpg
+hero_image_dark: home-dark.jpg
+hero_title: Anna Liu 刘安娜
+hero_pos: center 30%
+hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Aletsch_Glacier_view.jpg' target='_blank' rel='noopener'>Seba3mmm</a> · CC BY-SA 4.0"
+hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg' target='_blank' rel='noopener'>Giles Laurent</a> · CC BY-SA 4.0"
+
 profile:
   align: right
   image: prof_pic.jpg

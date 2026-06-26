@@ -8,8 +8,8 @@ hero_image_light: talks-light.jpg
 hero_image_dark: talks-dark.jpg
 hero_subtitle: Seminars, conference talks &amp; invited lectures
 hero_pos: center 45%
-hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:European_Antennas_at_ALMA%27s_Operations_Support_Facility.jpg' target='_blank' rel='noopener'>ALMA (ESO/NAOJ/NRAO)</a> · CC BY 4.0"
-hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Paranal_Starry_Night.jpg' target='_blank' rel='noopener'>G. Lombardi/ESO</a> · CC BY 4.0"
+hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Mathematics_lecture_at_the_Helsinki_University_of_Technology.jpg' target='_blank' rel='noopener'>Tungsten</a> · public domain"
+hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:A_sky_full(dome)_of_stars_(upr_IMG_6301-CC).jpg' target='_blank' rel='noopener'>ESO/P. Horálek</a> · CC BY 4.0"
 pagination:
   enabled: true
   collection: posts

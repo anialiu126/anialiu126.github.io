@@ -7,9 +7,9 @@ nav: true
 nav_order: 4
 hero_image_light: cross-light.jpg
 hero_image_dark: cross-dark.jpg
-hero_pos: center 45%
-hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:A_winding_road_up_Cerro_Armazones_(dji-0661).jpg' target='_blank' rel='noopener'>ESO/G. Vecchia</a> · CC BY 4.0"
-hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Aurora_Borealis_over_Spelga_Reservoir.jpg' target='_blank' rel='noopener'>David Kernan</a> · CC BY-SA 4.0"
+hero_pos: center 50%
+hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Oak_avenue,_D%C3%A4nschenburg,_2021-10-10.jpg' target='_blank' rel='noopener'>Radomianin</a> · CC BY-SA 4.0"
+hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_at_Juyong_Pass_at_sunset,_20_April_2011.jpg' target='_blank' rel='noopener'>Huangdan2060</a> · CC0"
 ---
 
 ## A Life Between Worlds

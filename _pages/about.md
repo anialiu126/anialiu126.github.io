@@ -40,9 +40,3 @@ I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University o
 #### <i class="fa-solid fa-earth-americas" style="color: #badb9e;"></i> Languages: 
 Polish (native), Mandarin Chinese (native), English (fluent), German (conversational), Dutch (conversational), Russian (conversational)
 
-My mini world map
-<div class="row mt-3">
-    <div class="col-sm-12">
-      {% include figure.liquid loading="eager" path="assets/img/world_map.png" title="world map" class="img-fluid rounded z-depth-1" %}
-      </div>
-</div>

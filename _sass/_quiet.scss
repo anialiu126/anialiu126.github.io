@@ -168,6 +168,26 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
   }
 }
 
+/* ---- CrossCultures: personal portrait floated in the content ----------- */
+.crosscultures-portrait {
+  float: right;
+  width: 290px;
+  max-width: 42%;
+  margin: 0.3rem 0 1rem 1.7rem;
+  border-radius: 6px;
+  box-shadow:
+    0 8px 30px rgba(0, 0, 0, 0.25),
+    0 0 0 1px var(--global-divider-color);
+}
+@media (max-width: 576px) {
+  .crosscultures-portrait {
+    float: none;
+    display: block;
+    width: 230px;
+    margin: 0 auto 1.2rem;
+  }
+}
+
 /* ---- Lead paragraph (first paragraph after the hero) ------------------- */
 .quiet-hero + .container .post > article > p:first-of-type {
   font-family: $quiet-serif;

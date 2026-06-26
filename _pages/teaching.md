@@ -12,6 +12,8 @@ hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Oak_
 hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_at_Juyong_Pass_at_sunset,_20_April_2011.jpg' target='_blank' rel='noopener'>Huangdan2060</a> · CC0"
 ---
 
+<img src="{{ '/assets/img/ania-crosscultures.jpg' | relative_url }}" alt="Anna Liu in a qipao" class="crosscultures-portrait" />
+
 ## A Life Between Worlds
 
 Growing up in both Polish and Chinese cultures, I am a native speaker of both languages. 

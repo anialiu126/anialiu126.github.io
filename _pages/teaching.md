@@ -12,7 +12,7 @@ hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Mors
 hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Sun_Rise_of_the_Great_Wall.jpg' target='_blank' rel='noopener'>Chrisding30</a> · CC BY-SA 4.0"
 ---
 
-<img src="{{ '/assets/img/ania-crosscultures.jpg' | relative_url }}" alt="Anna Liu in a qipao" class="crosscultures-portrait" />
+<img src="{{ '/assets/img/ania-crosscultures.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Anna Liu in a qipao" class="crosscultures-portrait" />
 
 ## A Life Between Worlds
 

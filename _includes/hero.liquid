@@ -14,7 +14,7 @@
   {% assign hero_sub = page.hero_subtitle | default: page.subtitle | default: page.description %}
   <section
     class="quiet-hero{% if page.hero_image_dark %} has-tint{% endif %}{% if page.hero_light_text %} force-light-text{% endif %}"
-    style="--hero-light: url('{{ hero_light_url }}'); --hero-dark: url('{{ hero_dark_url }}');{% if page.hero_pos %} --hero-pos: {{ page.hero_pos }};{% endif %}"
+    style="--hero-light: url('{{ hero_light_url }}?v={{ site.time | date: '%s' }}'); --hero-dark: url('{{ hero_dark_url }}?v={{ site.time | date: '%s' }}');{% if page.hero_pos %} --hero-pos: {{ page.hero_pos }};{% endif %}"
   >
     <div class="quiet-hero__blur" aria-hidden="true"></div>
     <div class="quiet-hero__img" aria-hidden="true"></div>

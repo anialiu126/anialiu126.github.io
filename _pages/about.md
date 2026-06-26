@@ -27,16 +27,16 @@ Welcome to my webpage! I'm Anna Liu (刘安娜), but my friends call me Ania, th
 
 I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University of Hong Kong (CUHK) in June 2025, specialising in gravitational-wave data analysis of compact binary signals. I developed a phenomenological GW lensing model and have contributed to ringdown analyses of GWs. I am a member of the LIGO-Virgo-KAGRA Collaboration, contributing to the Testing General Relativity and Lensing Groups. 
 
-#### <i class="fa-solid fa-building-columns" style="color: #74C0FC;"></i> Education: 
+#### <i class="fa-solid fa-building-columns" style="color: var(--global-theme-color);"></i> Education: 
 - PhD Physics, The Chinese University of Hong Kong, 2021-2025
 - MSc Astronomy & Astrophysics, KU Leuven, Belgium, 2021
 - BA (Hons) Physics, University of Oxford, UK, 2018
 
-#### <i class="fa-solid fa-magnifying-glass-chart" style="color: #fbae56;"></i> Research Interest: 
+#### <i class="fa-solid fa-magnifying-glass-chart" style="color: var(--global-theme-color);"></i> Research Interest: 
 - Gravitational waves from binary black holes: data analysis and phenomenology
 - Probing matter distribution in the Universe with gravitational-wave lensing
 - Probing General Relativity with black-hole ringdown
 
-#### <i class="fa-solid fa-earth-americas" style="color: #badb9e;"></i> Languages: 
+#### <i class="fa-solid fa-earth-americas" style="color: var(--global-theme-color);"></i> Languages: 
 Polish (native), Mandarin Chinese (native), English (fluent), German (conversational), Dutch (conversational), Russian (conversational)
 

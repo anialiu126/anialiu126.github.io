@@ -154,7 +154,7 @@ html[data-theme="light"] .quiet-hero {
 html[data-theme="light"] .quiet-hero.force-light-text {
   .quiet-hero__title,
   .quiet-hero__sub {
-    color: var(--global-theme-color); /* magenta — legible over both the dark photo and the light fade */
+    color: #7a2e6e; /* muted deep plum — legible over the dark photo + light fade, calmer than full magenta */
   }
 }
 

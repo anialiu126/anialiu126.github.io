@@ -41,17 +41,35 @@ patterns in something you cannot see.
 
 <div class="row mt-4">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gliding-solo.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="My first solo — 16 July 2018, with instructor and club chairman Bob King." %}
+        <a href="{{ '/assets/img/gliding-solo.jpg' | relative_url }}" class="glightbox" data-gallery="gliding" data-title="My first solo — 16 July 2018, with instructor and club chairman Bob King.">
+            {% include figure.liquid loading="eager" path="assets/img/gliding-solo.jpg" class="img-fluid rounded z-depth-1" caption="My first solo — 16 July 2018, with instructor and club chairman Bob King." %}
+        </a>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gliding-pov.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="The long view from the cockpit." %}
+        <a href="{{ '/assets/img/gliding-pov.jpg' | relative_url }}" class="glightbox" data-gallery="gliding" data-title="The long view from the cockpit.">
+            {% include figure.liquid loading="eager" path="assets/img/gliding-pov.jpg" class="img-fluid rounded z-depth-1" caption="The long view from the cockpit." %}
+        </a>
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gliding-field.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <a href="{{ '/assets/img/gliding-field.jpg' | relative_url }}" class="glightbox" data-gallery="gliding" data-title="A glider on the field, beneath a passing shower.">
+            {% include figure.liquid loading="eager" path="assets/img/gliding-field.jpg" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gliding-view.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <a href="{{ '/assets/img/gliding-view.jpg' | relative_url }}" class="glightbox" data-gallery="gliding" data-title="Instruments and the view ahead.">
+            {% include figure.liquid loading="eager" path="assets/img/gliding-view.jpg" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/css/glightbox.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.GLightbox) {
+      GLightbox({ selector: ".glightbox", loop: true });
+    }
+  });
+</script>

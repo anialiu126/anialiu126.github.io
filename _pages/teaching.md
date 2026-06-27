@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /crosscultures/
-title: CrossCultures
+title: Across Cultures
 description: My multicultural background and journey across cultures
 nav: true
 nav_order: 4

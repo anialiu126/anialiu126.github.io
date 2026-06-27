@@ -40,10 +40,18 @@ thermal is not so different from reading a signal — you learn to trust the
 patterns in something you cannot see.
 
 <div class="row mt-4">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gliding-solo.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="My first solo — 16 July 2018, with instructor and club chairman Bob King." %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gliding-pov.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="The long view from the cockpit." %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gliding-field.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gliding-view.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

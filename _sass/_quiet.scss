@@ -239,14 +239,13 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
 }
 .about-post li {
   margin-bottom: 0.45rem;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
 
   &::marker {
     color: var(--global-theme-color);
   }
 
   strong {
-    color: var(--global-text-color);
     font-weight: 600;
   }
 }

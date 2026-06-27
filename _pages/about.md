@@ -23,7 +23,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome to my webpage! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC), where I am a member of the <a href="https://yunes-gravity-theory-group.physics.illinois.edu/">Yunes Gravity Theory Group</a>. In September 2026, I will be joining the <a href="https://perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> as a postdoctoral fellow. 
+Welcome! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am a postdoctoral researcher at the University of Illinois Urbana-Champaign (UIUC), where I am a member of the <a href="https://yunes-gravity-theory-group.physics.illinois.edu/">Yunes Gravity Theory Group</a>. In September 2026, I will be joining the <a href="https://perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> as a postdoctoral fellow. 
 
 I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University of Hong Kong (CUHK) in June 2025, specialising in gravitational-wave data analysis of compact binary signals. I developed a phenomenological GW lensing model and have contributed to ringdown analyses of GWs. I am a member of the LIGO-Virgo-KAGRA Collaboration, contributing to the Testing General Relativity and Lensing Groups. 
 

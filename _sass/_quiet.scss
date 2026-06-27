@@ -196,6 +196,26 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
   }
 }
 
+/* ---- Gliding: personal portrait (landscape) floated in the content ----- */
+.gliding-portrait {
+  float: right;
+  width: 360px;
+  max-width: 46%;
+  margin: 0.3rem 0 1rem 1.7rem;
+  border-radius: 6px;
+  box-shadow:
+    0 8px 30px rgba(0, 0, 0, 0.25),
+    0 0 0 1px var(--global-divider-color);
+}
+@media (max-width: 576px) {
+  .gliding-portrait {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: 0 auto 1.2rem;
+  }
+}
+
 /* ---- About page: editorial width + bold serif lead -------------------- */
 .about-post {
   max-width: 820px;

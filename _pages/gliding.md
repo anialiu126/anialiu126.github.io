@@ -1,13 +1,16 @@
 ---
 layout: page
-permalink: /hobbies/
-title: Hobbies
-description: Life beyond physics — and a deep love of gliding
-nav: true
-nav_order: 5
+permalink: /gliding/
+title: Gliding
+description: Flying engine-less sailplanes — my great passion beyond physics
+nav: false
+hero_image_light: gliding-light.jpg
+hero_image_dark: gliding-dark.jpg
+hero_pos: center 38%
+hero_subtitle: Engine-less flight, and the long view from above
 ---
 
-## Gliding
+<img src="{{ '/assets/img/ania-gliding.jpg' | relative_url | bust_file_cache }}" alt="Anna Liu in a glider cockpit" class="gliding-portrait" decoding="async" />
 
 Becoming a pilot had been my dream for a couple of years at school. So when I
 found out that Oxford had a university gliding club, I knew I had to join.
@@ -36,4 +39,11 @@ patience, a feel for invisible forces, and a love of the long view. Reading a
 thermal is not so different from reading a signal — you learn to trust the
 patterns in something you cannot see.
 
-<!-- GALLERY: gliding photos go here once added -->
+<div class="row mt-4">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gliding-field.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gliding-view.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

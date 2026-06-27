@@ -73,8 +73,8 @@ roadside, and grizzly bears out on the meadows.
         </a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <a href="{{ '/assets/img/ys-sky.jpg' | relative_url }}" class="glightbox" data-gallery="yellowstone" data-title="A big Yellowstone sky">
-            {% include figure.liquid loading="eager" path="assets/img/ys-sky.jpg" class="img-fluid rounded z-depth-1" %}
+        <a href="{{ '/assets/img/ys-geyser-bison.jpg' | relative_url }}" class="glightbox" data-gallery="yellowstone" data-title="Bison in front of Old Faithful">
+            {% include figure.liquid loading="eager" path="assets/img/ys-geyser-bison.jpg" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>

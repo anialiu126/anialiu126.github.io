@@ -2,7 +2,7 @@
 layout: page
 title: More
 nav: true
-nav_order: 5
+nav_order: 8
 dropdown: true
 children:
   - title: Gliding

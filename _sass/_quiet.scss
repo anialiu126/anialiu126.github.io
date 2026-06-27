@@ -214,13 +214,52 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
 
 /* unified, tidy section headings (Education / Research / Languages) */
 .about-post h4 {
-  margin-top: 2rem;
+  margin-top: 2.6rem;
+  margin-bottom: 0.7rem;
   font-weight: 600;
 
-  i {
-    margin-right: 0.4rem;
+  /* small accent dot in place of the old (oversized) icon */
+  &::before {
+    content: "";
+    display: inline-block;
+    width: 0.5rem;
+    height: 0.5rem;
+    margin-right: 0.6rem;
+    border-radius: 50%;
+    background: var(--global-theme-color);
+    vertical-align: middle;
+    position: relative;
+    top: -0.12em;
+  }
+}
+
+/* education / research lists: bold the degree, lighten the detail, roomier */
+.about-post ul {
+  margin-bottom: 0.5rem;
+}
+.about-post li {
+  margin-bottom: 0.45rem;
+  color: var(--global-text-color-light);
+
+  &::marker {
     color: var(--global-theme-color);
   }
+
+  strong {
+    color: var(--global-text-color);
+    font-weight: 600;
+  }
+}
+
+/* gentle divider + spacing before the Selected publications block */
+.about-section-divider {
+  border: 0;
+  height: 1px;
+  background: var(--global-divider-color);
+  margin: 3rem 0 2rem;
+}
+.about-post .about-section-title {
+  margin-top: 0;
 }
 
 /* ---- About page: smaller social icons --------------------------------- */

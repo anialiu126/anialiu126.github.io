@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
+nav_order: 7
 hero_image_light: cv-light.jpg
 hero_image_dark: cv-dark.jpg
 hero_pos: center 50%

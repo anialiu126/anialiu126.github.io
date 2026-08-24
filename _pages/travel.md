@@ -4,8 +4,8 @@ permalink: /travel/
 title: Travel
 description: Places I have been lucky enough to explore
 nav: false
-hero_image_light: travel-light.jpg
-hero_image_dark: travel-dark.jpg
+hero_image_light: travel-light.webp
+hero_image_dark: travel-dark.webp
 hero_pos: center 50%
 hero_subtitle: Notes and photographs from the road
 ---

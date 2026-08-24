@@ -4,8 +4,8 @@ permalink: /talks/
 title: Talks
 nav: true
 nav_order: 1
-hero_image_light: talks-light.jpg
-hero_image_dark: talks-dark.jpg
+hero_image_light: talks-light.webp
+hero_image_dark: talks-dark.webp
 hero_subtitle: Seminars, conference talks &amp; invited lectures
 hero_pos: center 45%
 hero_credit_light: "Image: <a href='https://commons.wikimedia.org/wiki/File:Formulas_on_an_old_blackboard_(Unsplash).jpg' target='_blank' rel='noopener'>Roman Mager</a> · CC0"

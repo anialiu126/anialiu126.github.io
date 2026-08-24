@@ -5,8 +5,8 @@ title: Across Cultures
 description: My multicultural background and journey across cultures
 nav: true
 nav_order: 4
-hero_image_light: cross-light.jpg
-hero_image_dark: cross-dark.jpg
+hero_image_light: cross-light.webp
+hero_image_dark: cross-dark.webp
 hero_pos: center 50%
 hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Morskie_Oko_o_poranku.jpg' target='_blank' rel='noopener'>Aneta Pawska</a> · CC BY 3.0"
 hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Sun_Rise_of_the_Great_Wall.jpg' target='_blank' rel='noopener'>Chrisding30</a> · CC BY-SA 4.0"

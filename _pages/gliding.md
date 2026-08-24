@@ -4,8 +4,8 @@ permalink: /gliding/
 title: Gliding
 description: Flying engine-less sailplanes — my great passion beyond physics
 nav: false
-hero_image_light: gliding-light.jpg
-hero_image_dark: gliding-dark.jpg
+hero_image_light: gliding-light.webp
+hero_image_dark: gliding-dark.webp
 hero_pos: center 38%
 hero_subtitle: Engine-less flight, and the long view from above
 ---

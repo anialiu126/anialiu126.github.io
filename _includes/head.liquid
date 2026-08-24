@@ -1,6 +1,24 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+<!-- Hero image preload -->
+{% if page.hero_image_light or page.hero_image_dark %}
+  {% assign hero_preload_light = page.hero_image_light | default: page.hero_image_dark %}
+  {% assign hero_preload_dark = page.hero_image_dark | default: page.hero_image_light %}
+  <link
+    rel="preload"
+    as="image"
+    href="{{ hero_preload_light | prepend: '/assets/img/heroes/' | relative_url | bust_file_cache }}"
+    media="(prefers-color-scheme: light)"
+  >
+  <link
+    rel="preload"
+    as="image"
+    href="{{ hero_preload_dark | prepend: '/assets/img/heroes/' | relative_url | bust_file_cache }}"
+    media="(prefers-color-scheme: dark)"
+  >
+{% endif %}
+
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link

@@ -24,9 +24,9 @@ recent_talks: 3 # cards for the newest posts, linking to /talks/ (add `home_pin:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome! I'm Anna Liu (刘安娜), but my friends call me Ania, the Polish familiar form of my name. I am a postdoctoral fellow at the <a href="https://perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> in Waterloo, Canada. 
+Welcome! I'm Anna Liu, but my friends call me Ania, the Polish familiar form of my name. I am a postdoctoral fellow at the <a href="https://perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> in Waterloo, Canada. 
 
-I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University of Hong Kong (CUHK) in June 2025, specialising in gravitational-wave data analysis of compact binary signals. I developed a phenomenological GW lensing model and have contributed to ringdown analyses of GWs. I am a member of the LIGO-Virgo-KAGRA Collaboration, contributing to the Testing General Relativity and Lensing Groups. 
+I finished my PhD in Gravitational-Wave (GW) Physics at the Chinese University of Hong Kong in June 2025, specialising in gravitational-wave data analysis of compact binary signals. I developed a phenomenological GW lensing model and have contributed to ringdown analyses of GWs. I am a member of the LIGO-Virgo-KAGRA Collaboration, contributing to the Testing General Relativity and Lensing Groups. 
 
 #### Work Experience
 - **Postdoctoral Fellow**, Perimeter Institute for Theoretical Physics, Canada, since 2026

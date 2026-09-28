@@ -1,0 +1,26 @@
+{% comment %}
+  Newest posts, with any post marked `home_pin: true` shown first.
+{% endcomment %}
+{% assign pinned_posts = site.posts | where: 'home_pin', true %}
+{% assign other_posts = site.posts | where_exp: 'post', 'post.home_pin != true' %}
+{% assign shown_posts = pinned_posts | concat: other_posts %}
+<div class="recent-talks">
+  {% for post in shown_posts limit: include.limit %}
+    <a class="recent-talk" href="{{ post.url | relative_url }}">
+      <div class="recent-talk__thumb">
+        {% if post.thumbnail %}
+          <img src="{{ post.thumbnail | relative_url }}" alt="" loading="lazy" width="600" height="338">
+        {% else %}
+          <i class="fa-solid fa-microphone-lines"></i>
+        {% endif %}
+      </div>
+      <div class="recent-talk__date">
+        {% if post.home_pin %}<i class="fa-solid fa-thumbtack fa-xs"></i> {% endif %}{{ post.date | date: '%b %Y' }}
+      </div>
+      <div class="recent-talk__title">{{ post.title }}</div>
+    </a>
+  {% endfor %}
+</div>
+<p class="recent-talks__more">
+  <a href="{{ '/talks/' | relative_url }}">All talks &rarr;</a>
+</p>

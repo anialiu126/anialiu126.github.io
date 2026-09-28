@@ -20,6 +20,7 @@ profile:
     <p></p>
   
 news: false # includes a list of news items
+recent_talks: 3 # cards for the newest posts, linking to /talks/ (add `home_pin: true` to a post to keep it here)
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---

@@ -58,6 +58,15 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Recent talks -->
+    {% if page.recent_talks %}
+      <hr class="about-section-divider" />
+      <h2 class="about-section-title">
+        <a href="{{ '/talks/' | relative_url }}" style="color: inherit">Recent talks &amp; news</a>
+      </h2>
+      {% include recent_talks.liquid limit=page.recent_talks %}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <hr class="about-section-divider" />

@@ -15,8 +15,8 @@ thumbnail: assets/img/talk-cosmic-fossils.jpg
 
 I recently recorded two episodes of <em>Cosmic Fossils</em>, the podcast of the Gravitational-Wave Paleontology Lab at <a href="https://www.rakiura.co/" target="_blank" rel="noopener">Rakiura</a>. In the series, we follow massive stars from birth to their explosive deaths, and explore how the gravitational waves from the black holes they leave behind help us read the history of the Universe.
 
-- <a href="https://podcasts.apple.com/us/podcast/s1e1-the-dinosaurs-of-the-universe/id6811229846?i=1000789115180" target="_blank" rel="noopener">S1E1: The Dinosaurs of the Universe</a>
-- <a href="https://podcasts.apple.com/us/podcast/s1e2-we-are-made-of-exploded-massive-star-dust/id6811229846?i=1000789788185" target="_blank" rel="noopener">S1E2: We Are Made of Exploded Massive Star Dust</a>
+- **S1E1: The Dinosaurs of the Universe** &nbsp;·&nbsp; <a href="https://open.spotify.com/episode/24hqp2TKzNzFyLp3wPrLFz" target="_blank" rel="noopener">Spotify</a> · <a href="https://podcasts.apple.com/us/podcast/s1e1-the-dinosaurs-of-the-universe/id6811229846?i=1000789115180" target="_blank" rel="noopener">Apple Podcasts</a> · <a href="https://www.rakiura.co/labs/gw-paleontology/series/cosmic-fossils" target="_blank" rel="noopener">Rakiura</a>
+- **S1E2: We Are Made of Exploded Massive Star Dust** &nbsp;·&nbsp; <a href="https://open.spotify.com/episode/7wtYHCGIsyTLoElOQuXxaS" target="_blank" rel="noopener">Spotify</a> · <a href="https://podcasts.apple.com/us/podcast/s1e2-we-are-made-of-exploded-massive-star-dust/id6811229846?i=1000789788185" target="_blank" rel="noopener">Apple Podcasts</a> · <a href="https://www.rakiura.co/labs/gw-paleontology/series/cosmic-fossils" target="_blank" rel="noopener">Rakiura</a>
 
 🎙️ Listen on <a href="https://open.spotify.com/show/5h74Xcz0TDQHvSscUhp9sG" target="_blank" rel="noopener">Spotify</a>, <a href="https://podcasts.apple.com/us/podcast/cosmic-fossils/id6811229846" target="_blank" rel="noopener">Apple Podcasts</a> or <a href="https://www.rakiura.co/labs/gw-paleontology/series/cosmic-fossils" target="_blank" rel="noopener">Rakiura</a>.
 

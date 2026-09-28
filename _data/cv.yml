@@ -88,11 +88,10 @@
       year: 2021-2026
       items:
        - 3 undergraduate students and 2 graduate students
-    - title: Teaching Assistant
+    - title: 'Teaching Assistant, <em>PHYS1110 Engineering Physics: Mechanics and Thermodynamics</em>'
       year: 2021-2024
-      items: 
-       - Undergraduate course “PHYS1110 Engineering Physics. Mechanics and Thermodynamics”. 
-       - Weekly exercise classes of 30-35 students, individual consultations and assignment marking.
+    - title: Teaching Assistant, <em>UGEB 2401G Astronomy</em>
+      year: 2021-2022
 
 - title: Service and Outreach
   type: time_table

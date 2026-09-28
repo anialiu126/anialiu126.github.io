@@ -456,3 +456,17 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
   font-size: 0.85rem;
   color: var(--global-text-color-light);
 }
+
+/* ---- Chinese name in Kai style (AR PL UKai, 3-glyph subset) ----------- */
+/* assets/fonts/ukai-name.woff2 holds only 刘安娜; licence in LICENSE-arphic-ukai.txt */
+@font-face {
+  font-family: "UKai Name";
+  src: url("/assets/fonts/ukai-name.woff2") format("woff2");
+  font-display: swap;
+  unicode-range: U+5218, U+5B89, U+5A1C;
+}
+.zh-name {
+  font-family: "UKai Name", "AR PL UKai CN", KaiTi, STKaiti, serif;
+  font-weight: 400;
+  font-synthesis: none;
+}

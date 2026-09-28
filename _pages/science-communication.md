@@ -3,7 +3,8 @@ layout: page
 permalink: /science-communication/
 title: Science Communication
 description: Sharing gravitational-wave science beyond academia
-nav: false
+nav: true
+nav_order: 4
 hero_image_light: scicomm.webp
 hero_image_dark: scicomm.webp
 hero_pos: center 40%

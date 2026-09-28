@@ -64,6 +64,12 @@ on:
 permissions:
   contents: write
 
+# Run deploys one at a time, newest last, so an older build can never
+# finish after a newer one and overwrite gh-pages with stale content.
+concurrency:
+  group: deploy-gh-pages
+  cancel-in-progress: false
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images

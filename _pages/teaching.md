@@ -4,7 +4,7 @@ permalink: /crosscultures/
 title: Across Cultures
 description: My multicultural background and journey across cultures
 nav: true
-nav_order: 4
+nav_order: 5
 hero_image_light: cross-light.webp
 hero_image_dark: cross-dark.webp
 hero_pos: center 50%

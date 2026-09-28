@@ -23,7 +23,7 @@ hero_credit_dark: "Image: <a href='https://commons.wikimedia.org/wiki/File:Pilla
 
 I am a science communicator for the **Gravitational-Wave Paleontology Lab** at <a href="https://www.rakiura.co/labs/gw-paleontology" target="_blank" rel="noopener">Rakiura</a>, led by Floor Broekgaarden. The lab uses astrophysical simulations and AI-driven data science to reconstruct the lives of massive stars from the gravitational waves of their black-hole "fossils".
 
-<a href="https://www.rakiura.co/" target="_blank" rel="noopener">Rakiura</a>'s goal is to share science and to open research up to people outside academia: anyone with the skills can join a working lab and work on a real research problem, mentored as part of a research group. Our lab runs several <a href="https://www.rakiura.co/labs/gw-paleontology" target="_blank" rel="noopener">community research projects</a>, such as helping build the GROWL Catalog of gravitational-wave sources. Besides Gravitational-Wave Paleontology, Rakiura hosts other labs: Morning Star Missions to Venus, Project Starshade, Limits of Habitability, and Strings &amp; the Early Universe.
+<a href="https://www.rakiura.co/" target="_blank" rel="noopener">Rakiura</a>'s goal is to share science and to open research up to people outside academia: anyone with the skills can join a working lab and work on a real research problem, mentored as part of a research group. Besides Gravitational-Wave Paleontology, Rakiura hosts other labs: Morning Star Missions to Venus, Project Starshade, Limits of Habitability, and Strings &amp; the Early Universe.
 
 ### 🎙️ Podcast: *Cosmic Fossils*
 

@@ -47,22 +47,6 @@
       institution: University of Oxford, UK
       year: 2015-2018 
 
-- title: Research projects
-  type: time_table
-  contents:
-    - title: Unravelling Dark Matter with Gravitational-Waves. Gravitational-wave millilensing 
-      year: 2023
-      description: Developed a lens-model independent framework for analysing lensed GW signals, and implemented into the LIGO Lensing Subgroup search pipeline 
-    - title: Millilensed or precessing? 
-      year: 2024
-      description: The first comprehensive study of distinguishing millilensed GWs from precessing signals in the context of LIGO-Virgo-KAGRA detections
-    - title: Millilensing-induced systematic biases in parameterised tests of General Relativity
-      year: 2024 
-      description: Identified and quantified biases in tests of GR within the parameterised post-Einsteinian framework, employing Bayesian analysis and semi-analytic tools 
-    - title: Black-hole archaeology. Ancestral masses, spins and birth kick estimates from LIGO and Virgo data
-      year: 2024
-      description: Analysed exceptional GW events involving mass-gap black holes, to reveal the crucial role of eccentricity in identifying host environments of binary black holes 
-      
 - title: Awards
   type: time_table
   contents:
@@ -76,38 +60,20 @@
       year: 2017
       items: Summer research project in stellar astronomy at KIAA, Peking University, Beijing
 
-- title: Seminar Talks and Conferences
-  type: time_table
+- title: Invited Talks and Panels
+  type: list
   contents:
-  - title: Invited Talks
-    year: 2025-2026
-    items: 
-    - 'Perimeter Institute (<a href="https://doi.org/10.48660/26060068">DOI 10.48660/26060068</a>)'
-    - 'LVK GWTC-4 Lensing Webinar (online, streamed on <a href="https://youtu.be/A7_nQeAob2E?si=ZOjPl-io6b7tNlWV">YouTube</a>)'
-    - GWnext Meeting 2026, Beijing, China
-    - London-Oldenburg Relativity Seminar (online)
-    - Astrophysics, Relativity and Cosmology Seminar, UIUC, USA
-  - title: Invited Talks
-    year: 2023-2024
-    items: 
-    - 'KIAA, Peking University, China (<a href="https://kiaa.pku.edu.cn/info/1025/10154.htm">link</a>)'
-    - University of Illinois at Urbana-Champaign, USA
-    - 'University of Warsaw Physics Department Seminar, Poland (<a href="https://youtu.be/Qr7It78EDTA?si=HV7kogng2_Kxa_9Q">recording</a>)'
-  - title: Contributed Talks and Presentations
-    year: 2023-2025
-    items: 
-     - Midwest Relativity Meeting, Guelph, Canada 
-     - On behalf of the pyRing analysts team, March LVK Meeting 2024 (online)
-     - GWPAW Conference 2024, Birmingham, UK
-     - APS April Meeting 2024, Sacramento, California, USA
-     - Flash Talk and Poster Presentation, September LVK Meeting 2023, Toyama, Japan
-     - APS April Meeting 2023, Minneapolis, Minnesota, USA
-     - Poster Presentation, ESA Meeting 2023, Kraków, Poland
-  - title: Invited Talks
-    year: 2021-2022
-    items: 
-     - Department Seminar, University of Glasgow, Scotland
-     - Department Seminar, KU Leuven, Belgium 
+    - '<span class="cv-date">Sep 2026</span>Panelist, Postdoctoral Applications Panel Discussion, Perimeter Institute, Canada (<a href="https://pirsa.org/26090051">recording</a>)'
+    - '<span class="cv-date">Jun 2026</span>Seminar, Perimeter Institute, Canada (<a href="https://doi.org/10.48660/26060068">recording</a>)'
+    - '<span class="cv-date">Apr 2026</span>LVK GWTC-4 Lensing Webinar, online (<a href="https://youtu.be/A7_nQeAob2E?si=ZOjPl-io6b7tNlWV">YouTube</a>)'
+    - '<span class="cv-date">Mar 2026</span>GWnext Meeting 2026, Beijing, China (<a href="https://aletorreso.wixsite.com/atogw/gwnext2026">link</a>)'
+    - '<span class="cv-date">Jun 2025</span>KIAA, Peking University, China (<a href="https://kiaa.pku.edu.cn/info/1025/10154.htm">link</a>)'
+    - '<span class="cv-date">Jun 2025</span>London-Oldenburg Relativity Seminar, online'
+    - '<span class="cv-date">Mar 2025</span>University of Warsaw Physics Department Seminar, Poland (<a href="https://youtu.be/Qr7It78EDTA?si=HV7kogng2_Kxa_9Q">recording</a>)'
+    - '<span class="cv-date">2025</span>Astrophysics, Relativity and Cosmology Seminar, UIUC, USA'
+    - '<span class="cv-date">2023–2024</span>University of Illinois at Urbana-Champaign, USA'
+    - '<span class="cv-date">2021–2022</span>Department Seminar, University of Glasgow, Scotland'
+    - '<span class="cv-date">2021–2022</span>Department Seminar, KU Leuven, Belgium'
 
 - title: Teaching and Mentoring
   type: time_table
@@ -131,6 +97,13 @@
 - title: Service and Outreach
   type: time_table
   contents:
+    - title: Science Communicator, Rakiura Gravitational-Wave Paleontology Lab
+      year: since Mar 2026
+      description:
+        - 'Author of podcast series <a href="https://www.rakiura.co/labs/gw-paleontology/series/cosmic-fossils"><em>Cosmic Fossils</em></a> published on Spotify and Apple Podcasts'
+        - 'Author of popular-science videos on <a href="https://www.instagram.com/rakiuralabs">Instagram</a>'
+    - title: Seminar Chair and Organizer, Simons Collaboration Student-Postdoc Seminar Series
+      year: 2026
     - title: BRIDGE (Building Relations in Diversity and Gender Equity) organizing committee member 
       year: 2025-2026
       description: Inviting speakers and hosting discussions on diversity and gender equity in academia
@@ -148,10 +121,3 @@
     - title: Science Communication Translator
       year: since 2021
       description: Translated LVK science summaries and outreach materials into Polish and Chinese.
-      
-- title: Coding Skills
-  type: list
-  contents:
-    - <u>Coding languages:</u> Python, Mathematica, MATLAB, R Studio.
-    - <u>Astrophysics-related software:</u> pyRing (ringdown analysis package) developer, Gravelamps (lensing analyses) developer, Bilby (gravitational-wave parameter estimation), MESA (Stellar Evolution Code), Phoebe (Eclipsing Binary Modelling Software)
-    - <u>Graphics and video editors:</u> proficient user of Inkscape, Adobe Photoshop, DaVinci Resolve

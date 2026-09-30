@@ -478,9 +478,13 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
   color: var(--global-text-color-light);
 }
 
-/* ---- Home title: Latin name in a light Garamond to sit with the Kai glyphs */
+/* ---- Home title: Latin name in a medium Garamond to sit with the Kai glyphs;
+   UKai has no bold, so the title's Kai glyphs get a thin outline to match */
+.quiet-hero__title .zh-name {
+  -webkit-text-stroke: 0.6px currentColor;
+}
 .latin-name {
   font-family: "EB Garamond", Garamond, Georgia, serif;
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: 0;
 }

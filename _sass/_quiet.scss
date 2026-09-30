@@ -477,3 +477,10 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
   font-weight: 400;
   color: var(--global-text-color-light);
 }
+
+/* ---- Home title: Latin name in a light Garamond to sit with the Kai glyphs */
+.latin-name {
+  font-family: "EB Garamond", Garamond, Georgia, serif;
+  font-weight: 400;
+  letter-spacing: 0;
+}

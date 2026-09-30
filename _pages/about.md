@@ -6,7 +6,7 @@ subtitle: Gravitational-Wave Astrophysicist · Perimeter Institute for Theoretic
 
 hero_image_light: home-light.webp
 hero_image_dark: home-dark.webp
-hero_title: 'Anna Liu (Ania) <span class="zh-name">刘安娜</span>'
+hero_title: '<span class="latin-name">Anna Liu (Ania)</span> <span class="zh-name">刘安娜</span>'
 hero_pos: center 30%
 hero_credit_light: "Photo: <a href='https://commons.wikimedia.org/wiki/File:Aletsch_Glacier_view.jpg' target='_blank' rel='noopener'>Seba3mmm</a> · CC BY-SA 4.0"
 hero_credit_dark: "Photo: <a href='https://commons.wikimedia.org/wiki/File:036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg' target='_blank' rel='noopener'>Giles Laurent</a> · CC BY-SA 4.0"

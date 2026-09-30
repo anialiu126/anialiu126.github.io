@@ -470,3 +470,10 @@ html[data-theme="dark"] .quiet-hero__credit .credit-dark {
   font-weight: 400;
   font-synthesis: none;
 }
+
+/* ---- CV: plain-weight detail after a bold entry title ----------------- */
+.cv .title .cv-note {
+  display: block;
+  font-weight: 400;
+  color: var(--global-text-color-light);
+}

@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Anna Liu
-    # - name: Date of Birth
-    #   value: 6th December 1996
-    - name: Languages
-      value: Polish (native), Mandarin Chinese (native), English (fluent), German (intermediate), Russian (conversational), Cantonese (basic)
-
 - title: Work experience
   type: time_table
   contents:
@@ -15,14 +5,12 @@
       institution: Perimeter Institute
       year: 2026 - present
       description:
-        - Research on strong gravity and gravitational waves
+        - Strong gravity and gravitational waves
     - title: Postdoctoral Researcher
       institution: University of Illinois Urbana-Champaign
       year: 2025-2026
       description:
-        - Bayesian analysis of gravitational waves from binary neutron stars
-        - Member of Prof. Nicolas Yunes group and MUSES collaboration
-
+        - Binary neutron stars; Yunes group and MUSES collaboration
 
 - title: Education
   type: time_table
@@ -30,42 +18,29 @@
     - title: PhD Physics
       institution: The Chinese University of Hong Kong, Hong Kong
       year: 2021-2025
-      description:
-        - Gravitational-wave physics from binary black holes - parameter estimation and phenomenology
-        - Gravitational-wave lensing
-        - Probing General Relativity with black hole ringdown
-       # - Supervised by Prof. Otto A. Hannuksela and Prof. Tjonnie G. F. Li 
-
     - title: MSc Astronomy & Astrophysics
       institution: KU Leuven, Belgium
       year: 2019-2021
-      description:
-        - Thesis title "A phenomenological study of gravitational-wave signatures in higher-derivative gravity"
-       # - Supervised by Prof. Thomas Hertog
-
-    - title: BA (Hons) Physics 
+    - title: BA (Hons) Physics
       institution: University of Oxford, UK
-      year: 2015-2018 
+      year: 2015-2018
 
 - title: Awards
   type: time_table
   contents:
     - title: CUHK Physics Department Teaching Award
       year: 2021
-      items: Based on undergraduate students evaluation of teaching
-    - title: Oxford Physics Department Speaking Competition
+    - title: 'Oxford Physics Department Speaking Competition <span class="cv-note">highest mark in college</span>'
       year: 2017
-      items: 15-minute presentation, highest mark in the college 
-    - title: Victor and William Fung Foundation Scholarship
+    - title: 'Victor and William Fung Foundation Scholarship <span class="cv-note">summer research at KIAA, Peking University</span>'
       year: 2017
-      items: Summer research project in stellar astronomy at KIAA, Peking University, Beijing
 
 - title: Invited Talks and Panels
   type: list
   contents:
     - '<span class="cv-date">Sep 2026</span>Panelist, Postdoctoral Applications Panel Discussion, Perimeter Institute, Canada (<a href="https://pirsa.org/26090051">recording</a>)'
     - '<span class="cv-date">Jun 2026</span>Seminar, Perimeter Institute, Canada (<a href="https://doi.org/10.48660/26060068">recording</a>)'
-    - '<span class="cv-date">Apr 2026</span>LVK GWTC-4 Lensing Webinar, online (<a href="https://youtu.be/A7_nQeAob2E?si=ZOjPl-io6b7tNlWV">YouTube</a>)'
+    - '<span class="cv-date">Apr 2026</span>LVK GWTC-4 Lensing Webinar (<a href="https://youtu.be/A7_nQeAob2E?si=ZOjPl-io6b7tNlWV">YouTube</a>)'
     - '<span class="cv-date">Mar 2026</span>GWnext Meeting 2026, Beijing, China (<a href="https://aletorreso.wixsite.com/atogw/gwnext2026">link</a>)'
     - '<span class="cv-date">Jun 2025</span>KIAA, Peking University, China (<a href="https://kiaa.pku.edu.cn/info/1025/10154.htm">link</a>)'
     - '<span class="cv-date">Jun 2025</span>London-Oldenburg Relativity Seminar, online'
@@ -79,15 +54,10 @@
 - title: Teaching and Mentoring
   type: time_table
   contents:
-    - title: Lecture Initiator, Organiser and Teaching Assistant
-      year: 2023-2024
-      items: 
-       - “Quantum Field Theory. An informal course”. 
-       - Initiator and organiser of the first graduate-level quantum-field theory course at CUHK, lectured by Prof. Kenneth Young, 50 attendees. 
-    - title: Daily Mentor
+    - title: 'Daily Mentor <span class="cv-note">3 undergraduate and 2 graduate students</span>'
       year: 2021-2026
-      items:
-       - 3 undergraduate students and 2 graduate students
+    - title: 'Initiator and Organiser, Graduate Quantum Field Theory Course <span class="cv-note">CUHK, lectured by Prof. Kenneth Young</span>'
+      year: 2023-2024
     - title: 'Teaching Assistant, <em>PHYS1110 Engineering Physics: Mechanics and Thermodynamics</em>'
       year: 2021-2024
     - title: Teaching Assistant, <em>UGEB 2401G Astronomy</em>
@@ -96,27 +66,24 @@
 - title: Service and Outreach
   type: time_table
   contents:
-    - title: Science Communicator, Rakiura Gravitational-Wave Paleontology Lab
-      year: since Mar 2026
-      description:
-        - 'Author of podcast series <a href="https://www.rakiura.co/labs/gw-paleontology/series/cosmic-fossils"><em>Cosmic Fossils</em></a> published on Spotify and Apple Podcasts'
-        - 'Author of popular-science videos on <a href="https://www.instagram.com/rakiuralabs">Instagram</a>'
+    - title: 'Science Communicator, Rakiura Gravitational-Wave Paleontology Lab <span class="cv-note">podcast <a href="https://www.rakiura.co/labs/gw-paleontology/series/cosmic-fossils"><em>Cosmic Fossils</em></a> and popular-science videos on <a href="https://www.instagram.com/rakiuralabs">Instagram</a></span>'
+      year: since 2026
     - title: Seminar Chair and Organizer, Simons Collaboration Student-Postdoc Seminar Series
       year: 2026
-    - title: BRIDGE (Building Relations in Diversity and Gender Equity) organizing committee member 
+    - title: 'Organizing Committee Member, BRIDGE <span class="cv-note">Building Relations in Diversity and Gender Equity</span>'
       year: 2025-2026
-      description: Inviting speakers and hosting discussions on diversity and gender equity in academia
-    - title: Initiator and Co-lead, Weekly Astro Journal Club
+    - title: 'Initiator and Co-lead, Weekly Astro Journal Club <span class="cv-note">cross-group, 20-30 regular participants</span>'
       year: 2021-2023
-      description: Initiated and co-led a cross-group journal club (20-30 regular participants) that has continued for five years; Organised speakers and guided discussions promoting collaboration between astrophysics and cosmology researchers.
-    - title: Local Organizing Committee Member
-      year: Nov 2023
-      description: 'International workshop "<a href="https://www.phy.cuhk.edu.hk/events/multimessenger-astronomy2023/index.html">Multimessenger Astronomy: Bridging Transients, Lensing, and Dark Matter (Cosmic Frontiers)</a>"'
-    - title: Workshop Organiser, CUHK Physics Department “Presentation Skills for Scientists” Workshop
+    - title: 'Local Organizing Committee Member <span class="cv-note">workshop <a href="https://www.phy.cuhk.edu.hk/events/multimessenger-astronomy2023/index.html"><em>Multimessenger Astronomy: Bridging Transients, Lensing, and Dark Matter</em></a></span>'
+      year: 2023
+    - title: 'Workshop Organiser, “Presentation Skills for Scientists” <span class="cv-note">CUHK Physics, guest speaker Dr. Dominic Bowman</span>'
       year: 2022
-      description: Online workshop for graduate students, invited guest speaker Dr. Dominic Bowman.
-    - title: Referee, Monthly Notices of the Royal Astronomical Society; Physical Review D; Physical Review Letters
-      year: since 2021 
-    - title: Science Communication Translator
+    - title: 'Referee <span class="cv-note">Monthly Notices of the Royal Astronomical Society; Physical Review D; Physical Review Letters</span>'
       year: since 2021
-      description: Translated LVK science summaries and outreach materials into Polish and Chinese.
+    - title: 'Science Communication Translator <span class="cv-note">LVK science summaries in Polish and Chinese</span>'
+      year: since 2021
+
+- title: Languages
+  type: list
+  contents:
+    - Polish (native), Mandarin Chinese (native), English (fluent), German (intermediate), Russian (conversational), Cantonese (basic)
